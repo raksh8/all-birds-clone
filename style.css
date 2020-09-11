@@ -249,20 +249,20 @@ li{
 
 }
 .middle-2 .img1:hover{
-    background: rgba(65, 55, 3, 0.986);
+    background: rgba(207, 207, 67, 0.986);
 }
 .middle-2 .img2:hover{
-    background: rgba(48, 28, 150, 0.61);
+    background: rgba(49, 14, 221, 0.61);
 }
 .middle-2 .img3:hover{
-    background: rgba(22, 99, 15, 0.719);
+    background: rgba(7, 96, 179, 0.993);
 }
 .middle-2 .img4:hover{
     background: rgba(5, 5, 5, 0.76);
 }
 .middle-2 .img5:hover{
-    background: rgba(15, 13, 15, 0.705);
+    background: rgb(0, 0, 0);
 }
 .middle-2 .img6:hover{
-    background: rgba(168, 33, 28, 0.87);
+    background: rgb(255, 8, 0);
 }
